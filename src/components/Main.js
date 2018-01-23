@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import HomeContainer from '../containers/HomeContainer'
 import PostContainer from '../containers/PostContainer'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route
 } from 'react-router-dom'
 
